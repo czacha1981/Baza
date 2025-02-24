@@ -1,7 +1,5 @@
 import tkinter as tk
 from tkinter import ttk
-import streamlit as st
-import pandas as pd
 
 # Tytuł aplikacji
 st.title("Moja aplikacja z danymi")
